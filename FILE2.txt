@@ -7,3 +7,4 @@ Second line added in central repo master
 fifth lin added in central repository
 >>>>>>> 0aaa3d1859e623c000088070dc2f82a6d46c37a1
 created a 6th line in b1 local master
+7th line added in b1- central master
